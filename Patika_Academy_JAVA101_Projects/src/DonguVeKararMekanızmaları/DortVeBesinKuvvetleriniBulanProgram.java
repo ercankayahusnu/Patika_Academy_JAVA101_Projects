@@ -2,7 +2,7 @@ package DonguVeKararMekanızmaları;
 
 import java.util.Scanner;
 
-public class DortVeBesinKatlariniBulanProgram {
+public class DortVeBesinKuvvetleriniBulanProgram {
 
     public static void main(String[] args) {
 
