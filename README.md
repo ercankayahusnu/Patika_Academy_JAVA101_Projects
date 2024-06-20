@@ -17,7 +17,7 @@ Patika Akademinin hazırlamış olduğu Java ile Backend Web Development Patikas
 15- Çin Zodyağı Programı.
 16- Artık Yıl Hesaplama Programı.
 17- Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program.
-18- Tek Sayıların Toplamını Program.
+18- Tek Sayıların Toplamını Bulan Program.
 19- Girilen Sayıdan Küçük 2’nin Kuvvetlerini Bulan Program.
 20- Faktöriyel Hesaplayan Program.
 21- Üslü Sayı Hesaplayan Program.
