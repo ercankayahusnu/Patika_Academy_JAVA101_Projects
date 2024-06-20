@@ -1,4 +1,4 @@
-package DonguVeKararMekanızmaları;
+package DonguVeKararMekanızmalari;
 
 import java.util.Scanner;
 
