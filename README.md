@@ -31,6 +31,15 @@ Patika Akademinin hazırlamış olduğu Java ile Backend Web Development Patikas
 29- Ters Üçgen Yapan Program.
 30- 1-100 Arasındaki Asal Sayıları Bulan Program.
 31- Fibonacci Serisi Programı.
+32-Palindrom Sayı Bulan Program.
+33-Gelişmiş Hesap Makinesi Program.
+34-Recursive Metot Kullanarak Asal Sayı Bulan Program.
+35-Dizilerde Harmonik Sayı Hesaplayan Program.
+36-Dizide Girilen Sayıları Küçükten Büyüğe Sıralayan Program.
+37-Dizilerde Tekrar Eden Sayıyı Bulan Program.
+38-Matrisin Transpozunu Bulan Program.
+39-Dizilerde Frekans Bulan Program.
+40-Sayı Tahmin Oyunu Programı.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 All of the mini projects I have prepared for the Backend Web Development Path with Java prepared by Patika Academy are included in this project.
 1- Program that calculates grade point average.
@@ -50,7 +59,7 @@ All of the mini projects I have prepared for the Backend Web Development Path wi
 15- Chinese Zodiac Program.
 16- Leap Year Calculation Program.
 17- Program that finds even numbers up to the entered number.
-18- Program the Sum of Odd Numbers.
+18- Program to Find the Sum of Odd Numbers.
 19- Program to Find Powers of 2 Less than the Entered Number.
 20- Program to Calculate Factorial.
 21- Program to Calculate Exponent Numbers.
@@ -64,7 +73,15 @@ All of the mini projects I have prepared for the Backend Web Development Path wi
 29- Program to Make Inverted Triangle.
 30- Program to Find Prime Numbers Between 1-100.
 31- Fibonacci Series Program.
-
+32-Palindrome Number Finding Program.
+33-Advanced Calculator Program.
+34-Program to Find Prime Numbers Using Recursive Method.
+35-Program to Calculate Harmonic Numbers in Strings.
+36-Program that sorts the numbers entered in the array from smallest to largest.
+37-Program to Find Repeating Numbers in TV Series.
+38-Program to Find the Transpose of the Matrix.
+39-The Program That Finds Frequency in TV Series.
+40-Number Guessing Game Program.
 
 
 
