@@ -162,6 +162,6 @@
   </tr>
   <tr>
     <td>40</td>
-    <td>Sayı Tahmin Oyunu Programı</td>
+    <td>Mayın Tarlası Oyunu </td>
   </tr>
 </table>
